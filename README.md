@@ -1,6 +1,6 @@
 # ARCOS tutorial
 
-A tutorial workflow for detecting collective signalling events in microscopy images and accompanies the manuscript published in [Methods in Microscopy](https://doi.org/10.1515/mim-2024-0003). 
+This tutorial describes a workflow to detect collective cell signalling in microscopy images and accompanies the manuscript published in [Methods in Microscopy](https://doi.org/10.1515/mim-2024-0003). 
 The raw data microscopy data required to perform the analysis are deposited on [Mendeley Data](http://data.mendeley.com/datasets/z29fyn6kzz) (1.2 GB).
 
 ## Ingredients
