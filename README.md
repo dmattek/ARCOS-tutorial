@@ -15,6 +15,17 @@ The key computational components of the Jupyter notebook `arcos-tutorial.ipynb` 
 
 ![Workflow overview](extras/napari-flow.png)
 
+## Installation
+
+Start with creating a Python environment with all required dependencies described in the YAML file. 
+Choose the appropriate file based on your system (Linux, macOS, Windows).
+
+```
+conda env create -f arcos-tutorial-env-linux.yaml
+```
+
+Open the `arcos-tutorial.ipynb` file in Jupyter Notebook or Visual Studio Code.
+
 ## Results
 
 The video below illustrates:
