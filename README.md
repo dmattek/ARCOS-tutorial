@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/17201286.svg)](https://zenodo.org/badge/latestdoi/17201286)
+[![DOI](https://zenodo.org/badge/772175564.svg)](https://doi.org/10.5281/zenodo.17201285)
 
 # ARCOS tutorial
 
